@@ -1,0 +1,6 @@
+plugin:
+    name: 'yevhen.yslider::lang.plugin.name'
+    description: 'yevhen.yslider::lang.plugin.description'
+    author: Yevhen
+    icon: oc-icon-angle-double-up
+    homepage: ''
