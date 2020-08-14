@@ -14,4 +14,5 @@ $uri = urldecode(
 if ($uri !== '/' and file_exists(__DIR__.'/'.$uri)) {
     return false;
 }
+echo 'test';
 require_once __DIR__.'/index.php';
