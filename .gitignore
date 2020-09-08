@@ -1,1 +1,11 @@
 .idea
+.DS_Store
+*.log
+config/database.php
+storage/cms/combiner/*
+storage/cms/twig/*
+storage/cms/cache/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/temp/import/img/*
+storage/app/uploads/public/*
